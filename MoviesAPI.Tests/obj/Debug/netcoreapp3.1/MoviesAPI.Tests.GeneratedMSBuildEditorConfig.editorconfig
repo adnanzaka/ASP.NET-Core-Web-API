@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = MoviesAPI.Tests
+build_property.ProjectDir = C:\development\MoviesAPI-master\Module 9 - Deployment\AzureAppService\MoviesAPI.Tests\
